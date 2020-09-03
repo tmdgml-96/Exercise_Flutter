@@ -90,7 +90,7 @@ class MyApp extends StatelessWidget {
        appBar: AppBar(
          title: Text('Flutter layout demo'),
        ),
-       body: Column(
+       body: ListView(
          children: [
            Image.asset('images/launch_image.png', width: 600, height: 240, fit: BoxFit.cover,),
            titleSection,
