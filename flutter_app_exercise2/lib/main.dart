@@ -25,7 +25,6 @@ class MyApp extends StatelessWidget {
   }
 }
 
-
 // 움직이는 동적인 아이콘들
 class MyHomePage extends StatefulWidget {
   // key - value 형식의 생성자 만드는 방법.
